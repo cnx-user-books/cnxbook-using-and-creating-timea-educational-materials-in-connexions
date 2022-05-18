@@ -1,0 +1,146 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Using TIMEA Modules</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>384bf051-317a-4220-9398-70f71f81e6ee</md:uuid>
+</metadata>
+<content>
+<para id="id5038391">All materials in Connexions, including
+resources associated with 
+<link url="http://timea.rice.edu/">TIMEA</link> (Travelers in the
+Middle East Archive), are available for you to use and re-use
+freely so long as you 
+<link url="http://creativecommons.org/licenses/by/2.0/">attribute
+the source</link>. For instance, you can link to Connexions modules
+from a course or personal web page, or print out modules for
+personal use or inclusion in a course reader. TIMEA modules explore
+the research process and the history and culture of the Middle
+East, using digitized texts, images and maps in the TIMEA online
+archive as case studies. We anticipate that TIMEA modules will be
+used in a variety of ways: by students who want to improve their
+research skills and knowledge of the Middle East, researchers
+investigating the culture and history of the Middle East, and
+instructors in disciplines such as archaeology, art history,
+literature, history, and Middle Eastern studies.</para>
+<section id="id5482820">
+<title>Navigating Modules</title>
+<para id="id5286233">TIMEA modules in Connexions feature the TIMEA
+logo, which users can click to go to the TIMEA home page. In
+addition, these modules have their own unique look that marks them as being
+associated with TIMEA.</para>
+<para id="id5503512">Since Connexions aims to show the linkages
+among concepts, the left toolbar provides several kinds of links to
+related material: examples, supplemental material, similar content
+within Connexions, and courses using the module.</para>
+<figure id="id5225560"><media id="idm8434384" alt=""><image src="../../media/Graphic1-2b27.jpg" mime-type="image/jpeg"/></media>
+
+<caption>Related Material</caption></figure>
+
+
+<figure id="id5496123"><media id="idm2045456" alt=""><image src="../../media/Graphic2-5333.jpg" mime-type="image/jpeg"/></media>
+
+<caption>
+More About This Content Link</caption></figure>
+
+
+</section>
+<section id="id5073270">
+<title>Creating Courses</title>
+<para id="id5373519">If you want to guide students through a topic, you can arrange
+modules—whether they were authored by you or someone else--into a
+course. For instance, Beth Harris at the Fashion Institute of
+Technology, SUNY has built a course called 
+<link document="col10282">“History of
+Western Art and Civilization” </link> that is composed of modules
+written by Al van Helden for his 
+<link document="col10234">
+Galileo</link> web site and course. Connexions enables you to organize the modules
+into a sequence, add links to content inside and outside of
+Connexions, provide keywords, and author a description of your
+course.</para>
+<para id="id5493683">To create a course, you need to work either in
+your personal workgroup or in a collaborative one. Connexions
+provides detailed tutorials on how to use 
+<link document="m10885">work
+areas</link> and the 
+<link document="m10288">course
+composer</link> tool for building courses, so I’ll mention only a
+few key features here. You can set up a collaborative work group
+and add other members of Connexions to it, allowing them to work
+with you in editing modules or building a course. From your 
+<link document="m10885">work area</link>,
+you can search Connexions for published modules to add to your
+course, or you can create new courses and modules. Using the 
+<link document="m10288"> course
+composer</link>, you can create a course, organize it into
+sections, provide information about it, add and arrange modules,
+provide links, and, ultimately, publish it.</para>
+<para id="id5525550">If you want to use a module in a course but
+also wish to make some changes to it, you have several options. On
+the most basic level, you can re-title the module and change its
+links. If you would like to make deeper changes, you can use the 
+<link document="m11817">Suggest
+Edits</link> function to ask the author to make revisions.
+Alternatively, you can copy an existing module, revise it, and
+publish it under your name using the 
+<link document="m11804">Derived
+Copy</link> function. Derived copies include an acknowledgement that
+they are based on another author’s module.</para>
+<!--<para id="id5311604">
+<term>Annotations</term>
+</para>
+<para id="id5297775">Would you like to add a note or question to a
+module? If you have installed the Connexions <link src="http://cnx.org/content/m10338/latest/">roadmap</link> tool, you can
+easily attach annotations to a point in the module. The annotation
+will not be inserted directly into the text, but will appear in a
+dialog box that opens when you click the annotation icon (a
+pencil). You can create either personal annotations, which only you
+can view, or course annotations, which can be viewed by anyone who
+also has the Connexions toolbar installed and has come to the
+module via a course. To create an annotation:</para>
+<figure id="id3896117"><media type="image/jpg" src="Graphic3.jpg"/>
+
+<caption>
+Roadmap Toolbar</caption></figure>
+
+<list type="bulleted" id="id5315977"><item>Download the 
+<link src="http://cnx.org/content/m10338/latest/">
+roadmap</link> toolbar from 
+<link src="http://cnx.org/technology/roadmap">Connexions</link>.
+Please note that the roadmap currently works only in 
+<link src="http://www.netscape.com/">Netscape</link> and 
+<link src="http://www.mozilla.org/">Mozilla</link>.</item>
+<item>Highlight the text that you would like to annotate.</item>
+<item>Select the Annotations link in the upper left-hand corner of
+the page.</item>
+<item>Enter the annotation into the text box.</item>
+<item>Use the pulldown menu to indicate what kind of annotation you
+are adding, such as comment, question, explanation, or reference
+(&#8220;see also&#8221;). You can also select the language your comment is in. 
+<figure id="id3008088"><media type="image/jpg" src="Graphic4.jpg"/>
+<caption>Annotation Tool</caption></figure></item>
+</list>
+
+<para id="id5364824">Once you have added your annotation, a pencil
+mark will appear next to the annotated material.</para>
+<figure id="id5413149"><media type="image/jpg" src="Graphic5.jpg"/>
+
+<caption>Annotation Marker</caption></figure>
+
+<para id="id5514475">Please note that in order to edit or view an
+annotation, you must access the module via a course rather than as
+an individual component. In addition, you must have &#8220;Show
+Annotations&#8221; selected in the Roadmap toolbar.</para>
+<para id="id5490212">The Connexions Roadmap toolbar includes other
+handy features:</para>
+<list type="bulleted" id="id5401646">
+<item>On the left side, it lists courses that you have loaded as
+well as their modules, making it easy to navigate through a
+course.</item>
+<item>Through the pulldown menu, you can quickly select a course to
+load.</item>
+<item>The top toolbar contains a search button for all of
+Connexions as well as a link to the Merriam Webster
+dictionary.</item>
+</list>-->
+</section>
+</content>
+</document>

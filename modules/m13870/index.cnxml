@@ -1,0 +1,216 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Creating TIMEA Modules Using the Connexions Word Importer</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>63c69e79-86a2-41a9-b03d-f9d6a1f09525</md:uuid>
+</metadata>
+
+  <content>
+  
+<section id="wordsect1">
+<title>Overview</title> 
+
+<para id="element-341">Unless you are an experienced XML encoder, you will probably have an easier time creating your module if you write it in a program such as Microsoft Word and use the handy Importer to convert it to Connexions.  You can convert an existing Microsoft Word document into a CNXML file, 
+  which is the file in a Connexions module that contains the text and 
+  instructions for displaying images or other files. To convert a Word 
+  document you must first create a new module and then import the Word 
+  document into the module. The Import function applies CNXML tags to 
+  the Word paragraph and character styles. 
+</para>
+
+<note id="idp651024">
+  The Word file converts more smoothly and needs less fine tuning of 
+  the CNXML if you apply the styles in the Connexions document template 
+  to the Word file before you import it. Use of the Connexions document
+  template is optional, but we recommend it.
+</note>
+
+  
+<para id="element-503">
+  Connexions documents contain not only structural information about 
+  the document, but also semantic information. This means that you 
+  do not simply highlight some text and designate it as bold. Rather, 
+  you highlight the text and designate it as a "term" or as a "quote". 
+  When your document is uploaded to Connexions, the structure and the 
+  semantics are both preserved. Using Connexions styles is easy. If 
+  you have used styles in Microsoft Word before you will not have a 
+  problem. If you have not, have no fear, you will be using styles 
+  in no time. 
+</para>
+
+</section>
+
+
+<section id="startsect1">
+<title>The Connexions Template</title>
+
+<para id="startpara1">
+  Before you start creating Connexions modules from Word documents, 
+  we recommend that you obtain a copy of the Connexions document 
+  template. 
+</para>
+
+<section id="startsect2">
+<title>Obtaining the Connexions Document Template</title>
+
+<para id="startpara2">
+  To download the template from the Connexions Web site 
+  and to install it on your computer, use the following steps:
+  
+<list id="templatelist1" list-type="enumerated">
+  <item>Click the following link to download a copy of the template: 
+  <link url="http://cnx.rice.edu/help/Connexions-Document.dot">Connexions 
+  document template</link>. A dialog box opens, displaying options for 
+  opening or saving the template file.</item>
+  <item>Specify that the template file should be saved to the desktop 
+  on your computer and click <code>OK</code>.</item>
+  <item>Launch Microsoft Word on your computer.</item>
+  <item>Reduce your window size so that the document template icon 
+  is visible on your desktop.</item>
+  <item>From the Word File menu, click <code>New</code>.</item>
+  <item>Drag and drop the document template icon into the "General" 
+  tab of the "New" document box.</item>
+</list>
+</para>  
+
+<figure id="element-337">
+<media id="idm6497712" alt=""><image src="../../media/GeneralTab.png" mime-type="image/png"/></media>
+<caption>The "General" tab on Microsoft Word's "New" document dialog box.</caption>
+</figure>
+
+<para id="element-108"> 
+Now you can apply the Connexions document template to your Word documents. 
+</para>
+
+</section>
+
+<section id="createdocsect1">
+<title>Creating a New Word Document with the Connexions Template</title>
+
+<para id="element-804"> 
+  To create a new Word document that uses the Connexions document template, 
+  use the following steps:
+  
+<list id="createlist1" list-type="enumerated">
+  <item>Launch Microsoft Word on your computer.</item>
+  <item>Select <code>New</code> from the "File" drop-down menu. An empty 
+  document will open and the "New" document dialog box displays.</item>
+  <item>Select the <code>Connexions-Document.dot</code> icon from the 
+  "General" tab on the Microsoft "New" document dialog box.</item>
+  <item>Click <code>OK</code>.</item>
+  <item>Enter your content into the new document.</item>
+  <item>Apply the appropriate paragraph and character styles to the content as you enter it.</item>
+</list>
+</para>
+</section>
+
+<section id="usingolddocsect1">
+<title>Applying Connexions Styles to an Existing Word Document</title>
+<para id="usingolddocpara1">
+To apply the Connexions styles to an existing Word document, 
+use the following steps:
+
+<list id="existdoclist1" list-type="enumerated">
+  <item>Complete the process to obtain the Connexions document 
+  template.</item>
+  <item>Launch Microsoft Word and open your existing document.</item>
+  <item>Select "Format" from the menu bar.</item>
+  <item>Select "Theme" from the drop-down menu.</item>
+  <item>Click the "Style Gallery" button.</item>
+  <item>Select <code>Connexions-Document.doc</code> from the "Template" 
+  box. The styles from the template are copied into your document. If 
+  the Connexions style names match the style names in your existing 
+  document, then the Connexions styles are automatically applied to 
+  those items.</item>
+  <item>If the style names do not match, you must apply the Connexions 
+  template styles to the appropriate items in the existing file. To 
+  apply a paragraph style, place the cursor in the paragraph and select 
+  the style from the Style drop-down box in the Word Formatting toolbar. 
+  <note id="idp2639808">
+  Paragraph styles display the paragraph symbol next to their name 
+  in the drop-down box.
+  </note>
+  
+  To apply a character style, highlight the word or words and select 
+  the style from the Style drop-down box in the Word Formatting toolbar. 
+  <note id="idm7335680">
+  Character styles display an "a" next to their name in the drop-down 
+  box.</note>
+  </item> 
+  <item>Repeat the previous step for all the content in the file.</item>
+</list>
+</para>
+
+<para id="element-416">Please note these instructions are for Word 2000. 
+The process for other versions of Word will be similar. Consult your 
+Word Help feature if you have questions with a different version of Word.
+</para>
+
+</section>
+</section>
+
+
+<section id="importsect1">
+<title>Importing Your Word Document</title>
+
+<para id="element-730"> 
+  When your Word document is complete, you are ready to import it
+  into Connexions. To import the Word document, use the following steps:
+
+<list id="importlist1" list-type="enumerated">
+  <item>Log into Connexions.</item>
+  <item>Display the Connexions workspace or workgroup in which you 
+  want to work on your document.</item>
+  <item>Create a new module in which you will import your Word document. 
+  See <link document="m13049" target-id="creatingmodules">Creating New Items 
+  in a Workgroup</link> for instructions on creating a new module.</item>
+  <item>Click the "Edit" tab in the new module, if it is not already  
+  displaying.</item>
+  <item>Select Microsoft Word from the Import drop-down list and 
+  click <code>Import</code>.</item>
+  <item>Click <code>Browse</code> and locate your document.</item>
+  <item>Click <code>Import</code> to upload your document. Your new 
+  document is uploaded and ready to edit or publish in Connexions.
+  </item>
+</list>
+</para>
+
+<figure id="element-379">
+<media id="idp12928" alt=""><image src="../../media/import.png" mime-type="image/png"/></media>
+<caption>The "Edit" tab showing the "Import/Export module" box.</caption>
+</figure>
+
+<note type="warning" id="idp1043328">
+Importing a Word file into an existing module will overwrite the 
+contents of the existing module with the contents of the Word file. 
+Be careful not to import a Word file into a module that contains 
+content you want to save.
+</note>
+
+<para id="importpara2">
+  Feel free to edit your module using our editor, or make your changes 
+  in the Word file and repeat the import process.
+</para>
+
+<para id="element-179">
+  Word documents can be extremely varied. We have attempted to handle 
+  many common cases, with the goal of extracting the text from your 
+  document so that you can mark it up in CNXML without having to 
+  retype the content. Some cautions:
+  
+<list id="cautionlist1" list-type="bulleted">
+  <item>Formatting (such as bold and italics) is not preserved.</item>
+  <item>Some images and other objects may import correctly and become 
+  figures in the module, but others may not. Please let us know which 
+  objects you have success with and which you do not.</item>
+  <item>If you use CNXML-specific styles to create your Word document, 
+  you will get a more faithful conversion for elements like terms, 
+  citations, code, and others.</item>
+  <item>Even without CNXML-specific styling, you can make sure that 
+  your section organization is preserved during import by using the 
+  standard Word header styles (Heading 1, Heading 2, and so on) in 
+  your original document.</item>
+</list>
+</para>   
+</section>
+</content>
+  
+</document>

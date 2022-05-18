@@ -1,0 +1,290 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Overview of Connexions and TIMEA</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>50f2c5db-f882-485d-a6a3-3a56c53432ee</md:uuid>
+</metadata>
+<content>
+<section id="id3099873">
+<title>What is Connexions?</title>
+<para id="id2682241">Connexions is an online repository and set of
+software tools for collaboratively developing, freely sharing, and
+quickly publishing educational content. The 
+<link document="">Content
+Commons</link> contains educational 
+<link url="http://beta.cnx.org/help/glossary#module">
+modules</link> that can be grouped together into larger 
+<link url="http://beta.cnx.org/content/browse_courses">
+courses</link>. You may freely use and reuse content under the 
+<link url="http://creativecommons.org/">Creative Commons</link> 
+<link url="http://creativecommons.org/licenses/by/2.0/">
+"attribution" license</link>, which requires only that you cite the
+source. By making all content open, Connexions encourages
+collaboration and community-building, as scholars work together to
+create and use educational resources. Whereas a traditional
+textbook presents ideas in a fixed sequence, typically from a
+single discipline, Connexions allows instructors to break knowledge
+up into “chunks” that can be rearranged. Modules can contain links
+to related concepts both inside and outside of the Connexions
+environment, enabling students to see the relationship among ideas.
+Instructors can create their own custom courses drawing from the
+Connexions Content Commons.</para>
+<para id="id2665802">Connexions advances three core 
+<link url="http://cnx.org/aboutus/philosophy">
+principles</link>:</para>
+<para id="id2665626">1) “Content should be modular and
+non-linear”</para>
+<para id="id2475266">We learn by building on what we already know,
+linking together old and new knowledge. Therefore Connexions’
+modules focus on a key concept and can be organized in different
+ways, illustrating the relationships among ideas.</para>
+<para id="id2670152">2) “Sharing is good”</para>
+<para id="id2683087">Connexions enables authors to share their work
+and receive attribution for it by adopting the 
+<link url="http://www.creativecommons.org/">Creative
+Commons</link> open-content licenses. Connexions is built on Open
+Source technologies and uses 
+<link url="http://cnx.org/help/glossary#xml">XML</link> to ensure
+that content can be exchanged and used on different
+platforms.</para>
+<para id="id3094434">3) “<link url="http://cnx.org/help/reference/collaboration">
+Collaboration</link> is encouraged”</para>
+<para id="id2677631">Through its workgroup and communication tools,
+Connexions makes it easy for people to author modules jointly,
+suggest edits, or adapt modules for their own purposes.</para>
+<para id="id3026564">Connexions serves three categories of
+users:</para>
+<list list-type="bulleted" id="id3080284">
+<item>Students, who use Connexions materials. (Of course,
+“students” need not be enrolled in a specific course.)</item>
+<item>Authors, who create Connexions modules</item>
+<item>Instructors, who construct courses that contain modules
+arranged in a particular order</item>
+</list>
+<para id="id3097444">Connexions has an international audience of
+over one million people from more than 150 countries. As of August,
+2006, Connexions contains over 3000 modules and 170 courses
+covering topics from music to computer science to history. The
+TIMEA community in Connexions has contributed over 25 modules and
+has built 5 courses covering topics such as conducting historical
+research and analyzing visual culture.</para>
+<para id="id2682633">For more information about Connexions, see 
+<link url="http://cnx.org/">http://cnx.org</link></para>
+</section>
+<section id="id2979838">
+<title>What is TIMEA?</title>
+<para id="id2682543">The Travelers in the Middle East Archive
+(TIMEA) is a digital archive that focuses on Western interactions
+with the Middle East, particularly travel to Egypt during the
+nineteenth and early twentieth centuries. TIMEA brings
+together:</para>
+<list list-type="bulleted" id="id2996299"><item>
+<link url="http://dspace.rice.edu/handle/123456789/3">
+Images</link>, such as postcards and stereograph views of
+monuments, street scenes, people and events</item>
+<item>
+<link url="http://timea.rice.edu/texts.html">Texts,</link> including
+travel guides, museum catalogs, and travel narratives.</item>
+<item>
+<link url="http://timea.rice.edu/maps.html">Maps</link>, including
+historical maps and interactive GIS (Geographical Information
+Systems) maps that enable queries of geospatial information</item>
+<item>Research and teaching guides in Connexions that explore the
+research process and set archive materials in context.</item>
+</list>
+<para id="id3080246">Through TIMEA’s research and teaching modules,
+we are pursuing two related goals:</para>
+<para id="id2651146">1) To improve research skills and information
+literacy by exploring how to conduct research, particularly in the
+humanities and social sciences. We use materials in the TIMEA
+archive as case studies to examine topics such as conducting
+library research projects and investigating material
+culture.</para>
+<para id="id3104494">2) To build understanding of TIMEA resources
+through topics such as the history of the satirical Egyptian Red
+Book, the cultural significance of stereographs, and identifying
+and analyzing the features of the “Souvenir of Egypt,” a decorative
+silk.</para>
+<para id="id2654503">We encourage you to join TIMEA’s efforts. To
+provide a framework for collaboration, TIMEA has established an
+online 
+<link url="http://beta.cnx.org/communities/Community6">
+community</link> in Connexions. This set of web pages contains a
+forum for discussing ongoing efforts, a list of TIMEA content, a
+description of current activities, and information about TIMEA’s
+objectives and approach.</para>
+<para id="id2633744">There are many ways that you can
+contribute:</para>
+<list list-type="bulleted" id="id3066211">
+<item>Create new courses or modules</item>
+<item>Use materials as primary or supplemental texts for
+courses</item>
+<item>Review existing modules and 
+<link document="m11817">suggest
+improvements</link></item>
+<item>Translate modules into other languages</item>
+<item>Develop new examples, provide more information or otherwise
+enhance existing modules</item>
+<item>Contribute to TIMEA Community discussions and forum</item>
+</list>
+<para id="id5176229">Among the topics covered by TIMEA modules in
+Connexions are:</para>
+<para id="id2673022">
+<link document="col10371">History through
+the Stereoscope: Stereoscopy and Virtual Travel</link>
+</para>
+<list list-type="bulleted" id="id4821355">
+<item>
+<link document="m13784">A Brief History
+of Stereographs and Stereoscopes</link>
+</item>
+<item>
+<link document="m13786">Major US
+Stereograph Publishers</link>
+</item>
+<item>
+<link document="m13785">Egypt through the
+Stereoscope: Stereography and Virtual Travel</link>
+</item>
+<item>
+<link document="m13783">Strategies and
+Resources for Studying Stereographs</link>
+</item>
+</list>
+<para id="id3095652">
+<link document="m13674"> Building up
+One Empire while Tearing Down Another: Scholars, Missionaries and
+Spies in the Ottoman Middle East</link>
+</para>
+<para id="id2679549">
+<link document="m13693"> Placing
+History: Introducing Geographic Information Systems in the Context
+of Current Humanities Research</link>
+</para>
+<para id="id3093077">
+<link document="m13863">TIMEA GIS Map
+Interface Tools</link>
+</para>
+<para id="id2646351">
+<link document="col10301">
+ Understanding Material Culture: Deciphering the Imagery of
+the "Souvenir of Egypt"</link>
+</para>
+<list list-type="bulleted" id="id2639674">
+<item>
+<link document="m13018"> Introduction
+to the "Souvenir of Egypt"</link>
+</item>
+<item>
+<link document="m13016"> Analyzing
+Literary and Cultural References: Identifying the Texts in the
+Souvenir of Egypt</link>
+</item>
+<item>
+<link document="m13028"> Identifying
+the Flags of the Souvenir of Egypt</link>
+</item>
+<item>
+<link document="m13017"> Identifying
+Historical Figures: The Souvenir of Egypt</link>
+</item>
+<item>
+<link document="m13029"> Analyzing
+Symbols in Artifacts: The Souvenir of Egypt</link>
+</item>
+<item>
+<link document="m13057"> Taking the
+“Souvenir of Egypt” Research Project to the Next Level</link>
+</item>
+</list>
+<para id="id2671256">
+<link document="col10290"> Studying
+Political Satire: "The Egyptian Red Book"</link>
+</para>
+<list list-type="bulleted" id="id2683251">
+<item>
+<link document="m12817"> Studying
+Political Satire: Introduction to "The Egyptian Red Book"</link>
+</item>
+<item>
+<link document="m12813"> Categorizing
+Historical Documents: What is a Red Book?</link>
+</item>
+<item>
+<link document="m12815"> Identifying
+Historical Figures: Putting Names to the Caricatures in "The
+Egyptian Red Book"</link>
+</item>
+<item>
+<link document="m12814"> Getting the
+Whole Story From "The Egyptian Red Book": General Charles Gordon in
+Khartoum</link>
+</item>
+</list>
+<para id="id3022966">
+<link document="col10291">
+ Conducting Historical Research: The Case of "Oriental
+Cairo"</link>
+</para>
+<list list-type="bulleted" id="id3012194">
+<item>
+<link document="m12590"> Introduction
+to Researching "Oriental Cairo"</link>
+</item>
+<item>
+<link document="m12529"> Researching
+Biography: Who is Douglas Sladen?</link>
+</item>
+<item>
+<link document="m12586"> Compiling a
+Bibliography: What else has Douglas Sladen written?</link>
+</item>
+<item>
+<link document="m12585"> How Does
+"Oriental Cairo" Compare With Similar Works?</link>
+</item>
+<item>
+<link document="m12583"> Accessing
+Networked Resources</link>
+</item>
+<item>
+<link document="m12527"> Searching
+Online Catalogs</link>
+</item>
+<item>
+<link document="m12523"> Using Union
+Catalogs: WorldCat</link>
+</item>
+<item>
+<link document="m12525"> Borrowing
+Resources through Interlibrary Loan: Illiad</link>
+<link document="m12729"> Conducting
+Research Using Microfiche, Microfilm and Microcard</link>
+</item>
+</list>
+<para id="id5177982">
+<link document="col10289">Conducting
+Research with the British Parliamentary Papers</link>
+</para>
+<list list-type="bulleted" id="id3075906">
+<item>
+<link document="m12842"> Introduction
+to Conducting Research with the British Parliamentary Papers</link>
+</item>
+<item>
+<link document="m12841"> The British
+Parliament and its Papers</link>
+</item>
+<item>
+<link document="m12840"> Finding What
+You are Looking For in the British Parliamentary Papers</link>
+</item>
+</list>
+<para id="id4616479">TIMEA is funded by the 
+<link url="http://www.imls.gov/">Institute of Museum and Library
+Services (IMLS)</link> and the 
+<link url="http://citi.rice.edu/">Computer and Information
+Technology Institute (CITI)</link>. Please email 
+<link url="mailto:timea@rice.edu">timea@rice.edu</link> with any
+questions.</para>
+</section>
+</content>
+</document>

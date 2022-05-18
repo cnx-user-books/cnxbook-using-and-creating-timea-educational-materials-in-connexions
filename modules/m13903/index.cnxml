@@ -1,0 +1,194 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Bringing TIMEA Content into Connexions</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ca540a65-924d-45fb-b439-23c361369e80</md:uuid>
+</metadata>
+<content>
+<para id="id7261945">Through the <link url="http://timea.rice.edu">Travelers in the Middle East Archive</link>'s partnership with Connexions,
+we hope to go a step beyond the typical online archive and make
+digitized texts, images and maps about the Middle East the building
+blocks for interactive learning communities—that is, to provide
+original sources <emphasis>and</emphasis>  construct educational materials and
+communities around these sources. TIMEA modules should therefore
+reference content within the archive.</para>
+<para id="id7278981">We’ve experimented with bringing digital texts and images from
+TIMEA directly into Connexions, but we have found that some
+tweaking of TIMEA content is often necessary. For instance, TIMEA
+images are typically too large—1024 pixels along the long
+dimension--to work in Connexions. Since the ideal width for an
+image in Connexions is no wider than 600 pixels, we suggest that
+you download it from the TIMEA site, resize it, and upload it into
+Connexions as part of your module. At the same time, readers should
+be able to see the larger version of the image and learn more about
+it, such as who created it and when. Therefore, we ask that you add
+a link to the item in the main TIMEA archive both in the "links" section of the module and in the caption for the item.</para>
+<section id="idp8163152">
+<title>Using a TIMEA image in Connexions:</title>
+<para id="id7246393">
+
+1) Download the image from <link url="http://dspace.rice.edu/handle/123456789/1">DSpace</link>, TIMEA’s content management
+system. Simply right click on the image (or, if you are using a
+Mac, CTRL-click) and select “Save Image As.” Since all TIMEA
+content is available through the 
+<link url="http://creativecommons.org/licenses/by/2.0/">Creative
+Commons attribution license</link>, you can download it without
+worrying that a horde of lawyers will soon descend upon you.
+
+</para>
+
+<para id="id7246394">2) Resize the image so that its width is no greater than 600
+pixels. You can use commercial programs such as Adobe Photoshop or
+free programs such as 
+<link url="http://www.irfanview.com/">IrfanView</link>(our
+favorite), 
+<link url="http://www.gimp.org/">Gimp</link>, or 
+<link url="http://picasa.google.com/">Picasa</link>. Save the image
+in a format that will display on the web, such as jpg, png, or
+gif.
+</para>
+<para id="id7246395">3) Import the image into Connexions. Once you are in the “Edit
+Module” part of Connexions, click the files tab, then follow these
+steps:
+</para>
+
+<list list-type="bulleted" id="id7251113">
+<item>“Click the down arrow in the text box next to Add New Item. A
+drop-down list of valid item types appears.</item>
+<item>Select "Image" from the drop-down list and click Add New
+Item. The "Edit Image" tab displays.</item>
+<item>Click Browse. The "File Upload" dialog box displays.</item>
+<item>Find the file you need and click on it.</item>
+<item>Click Open. The image filename appears in the text box next
+to Browse.</item>
+<item>Click Save to upload the image file into Connexions. A
+confirmation message and a preview of the image display.” (See
+Connexions’ tutorial on 
+<link document="m10887">Editing
+Modules</link>)</item>
+</list>
+
+<figure id="id7273548"><media id="idm909296" alt=""><image src="../../media/Graphic1.png" mime-type="image/png"/></media>
+
+<caption>
+Managing Files in Connexions. (Courtesy Connexions)
+</caption>
+</figure>
+
+<para id="id7246396">4) At the point where you want to insert the figure, use the
+&lt;figure&gt; element, as shown below. You’re required to provide a unique ID for
+the figure (it can be pretty much anything, so long as it is unique). You can use the &lt;name&gt; tag to provide a title for
+the figure, which will appear immediately above the image. To bring
+an external figure (such as a jpg file) into the module, use the
+&lt;media&gt; tag; in the "type" attribute, indicate what type of file it is, and in the "src" attribute what it is
+called.
+</para>
+
+<para id="id7241838">Be sure to provide a caption, which will
+appear below the image. In the caption, give the title of the
+resource, its creator and creation date (if available), and a brief
+description. Also include a <link document="m13902">link</link> to the DSpace metadata record for the image that you are using. The following example provides a template:</para>
+<example id="idp6776224">
+<para id="id7241486">
+<code>&lt;figure id="id8018405"&gt;</code>
+</para>
+<para id="id7239175">
+<code>&lt;name&gt;The Great pyramid of Gizeh&lt;/name&gt;</code>
+</para>
+<para id="id7278038">
+<code>&lt;media type="image/jpg" src="Graphic1.jpg"/&gt;</code>
+</para>
+<para id="id7245739">
+<code/>
+</para>
+<para id="id7270028">
+<code>&lt;caption&gt;"The Great pyramid of Gizeh, a tomb of 5,000
+years ago, from S.E. Egypt."</code>
+</para>
+<para id="id7186664"><code>Stereograph. NY: Underwood and Underwood, 1908. From &lt;link
+src="http://timea.rice.edu"&gt;TIMEA&lt;/link&gt;. (August 19,
+2006). &lt;link src="http://hdl.handle.net/1911/5586"&gt;</code> <code>http://hdl.handle.net/1911/5586&lt;/link&gt; Note how only
+half of the tree on the left side of the left frame is visible,
+while two-thirds of the same tree can be seen in the right
+frame.</code>
+
+</para>
+
+<para id="id7252420">
+<code>&lt;/caption&gt;</code>
+</para>
+<para id="id7254915">
+<code>&lt;/figure&gt;</code>
+</para></example>
+</section><section id="idp12304096">
+<title>Using a section of a TIMEA text in Connexions:</title>
+
+<para id="id7238153">To include a quotation from a TIMEA text in
+Connexions, simply copy and paste it into a paragraph
+(&lt;para&gt;) in your module. If you would like for the quotation
+to appear as a block quote, use the 
+<link url="http://cnx.org/technology/cnxml/0.5/spec/#quote">quote
+element</link>, as shown below.</para>
+<para id="id7268214">Please provide a link to the <link url="http://dspace.rice.edu/handle/1911/5251">DSpace</link> metadata record for the text in TIMEA so that readers can quickly access the
+complete text. This record provides lots of useful information about the text, such as its original publication date, Library of Congress subject headings, and author.  Use the identifier indicated as the preferred citation; it will look something like <code>http://hdl.handle.net/1911/9179</code>, since it uses the <link url="http://www.handle.net/rfc/rfc3650.html">handle system</link> to ensure permanence. You can place the link in the citation appearing in the main text, in a <link url="http://cnx.org/technology/cnxml/0.5/spec/#note">note</link> or bibliography, or by using the quote element.  (If you use the quote element with the "src" attribute, a link to the original source will appear in parentheses at the end of the quotation.)  Ultimately, we hope to provide a way of linking
+directly to the paragraph in which the original quotation appears.</para>
+<example id="idp7503712">
+<para id="id7276133">&lt;para id="id7276133"&gt;In the introduction to &lt;cite&gt;&lt;link
+src="http://hdl.handle.net/1911/9166"&gt;Egypt through the
+Stereoscope&lt;/link&gt;&lt;/cite&gt;, Breasted touted the ability
+of the stereoscope to make a distant place seem real and allow close study:
+<quote display="inline" class="no-marks" url="http://hdl.handle.net/1911/9166">&lt;quote src=”http://hdl.handle.net/1911/9166”&gt;
+In the preparation of the following pages, I have
+constantly had my eyes within the hood of the stereoscope, and I
+cannot forbear to express here the growing surprise and delight, with
+which I observed as the work proceeded, that it became more and more
+easy to speak of the prospect revealed in the instrument, as one
+actually spread out before me. The surprising depth and atmosphere
+with which the scientifically constructed instrument
+interpreted what were actually but bits of paper and pasteboard,
+were a revelation; indeed, I constantly sat by an open window
+looking out over the actual ruins of the Nile Valley, which I could
+study, one after another, at will. (13) &lt;/quote&gt;</quote>&lt;/para&gt;</para>
+</example>
+</section>
+<section id="idm4842400">
+<title>Linking to a Point on a GIS map in Connexions:</title>
+<para id="id7249792">Would you like to quickly pinpoint a place on
+a dynamic map of Egypt or Cyprus? You can link within a
+Connexions module to a specific point on TIMEA’s GIS map t if you
+know the place's decimal latitude and longitude. To find the decimal
+latitude and longitude for the place, download the Egypt or Cyprus
+names file from the 
+<link url="http://earth-info.nga.mil/gns/html/cntry_files.html">
+GEOnet Names Server (GNS)</link>. Once you have unzipped the file,
+open the 
+<link url="http://office.microsoft.com/training/training.aspx?AssetID=RC011801181033">
+text file in Excel</link> in the delimited format, which will allow
+you to more easily work with the data. Search for the place name
+that you need. (The file for Egypt contains over 40,000 places
+names.) The decimal latitude is in the fourth column (marked LAT),
+while the longitude is in the fifth column (marked LONG).</para>
+<para id="id7242530">Formulate the URL as follows:</para>
+<para id="id7278223"><link url="http://aries.rice.edu/website/timea/viewer.htm?:LS31.1980556:29.9191667:Alexandria:LE">
+http://aries.rice.edu/website/timea/viewer.htm?:LS31.1980556:29.9191667:Alexandria:LE</link>
+</para>
+<list list-type="bulleted" id="id7251568"><item>where 
+<link url="http://aries.rice.edu/website/timea/viewer.htm">
+http://aries.rice.edu/website/timea/viewer.htm</link> is the URL
+for TIMEA’s GIS map</item>
+
+<item>followed by ?:LS</item>
+<item>followed by the latitude given in decimal form (31.1980556 in
+this case)</item>
+
+<item>followed by the longitude given in decimal form (29.9191667
+here)</item>
+
+<item>followed by the place name</item>
+
+<item>followed by :LE</item>
+</list>
+<para id="id7186870">Contact 
+<link url="mailto:timea@rice.edu">timea@rice.edu</link> if you need
+assistance</para>
+</section>
+</content>
+</document>

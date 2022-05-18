@@ -1,0 +1,275 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Authoring Connexions Modules Related to TIMEA</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f4c40208-71fa-4bc7-8abd-ef985e2029a3</md:uuid>
+</metadata>
+<content>
+<para id="id6318940">Teachers,
+researchers, librarians can not only use resources in the <link url="http://timea.rice.edu">Travelers in the Middle East Archive</link> for classes and research projects,  but also create their
+own educational modules in <link url="http://cnx.org">Connexions</link> and contribute them to the <link document="">Content Commons</link>.</para>
+<para id="id4519153">Just 
+<link url="http://cnx.org/portal_form/join_form?came_from=http://cnx.org/help/">
+register</link> with Connexions, 
+<link document="col10151">learn how the
+system works</link>, 
+<link url="http://beta.cnx.org/communities/Community6">join the
+TIMEA community in Connexions</link>, and get started writing.
+TIMEA has a growing collection of over 30 modules covering topics
+such as performing historical research and using Geographical
+Information System (GIS) resources, but there are many areas left
+to explore. For instance, you could use TIMEA’s museum catalogs to
+explore the history of Egyptian museums and Egyptology, or examine
+TIMEA’s travel guides in a module analyzing Western attitudes
+towards the Middle East in the nineteenth and early twentieth
+centuries. Likewise, you could draw on TIMEA’s rich images of Egypt
+in a course on the history of photography, or explore the genre of
+travel literature through a module that references TIMEA’s many
+travel narratives.</para>
+<para id="id3452010">All Connexions modules are encoded in 
+<link document="m9000">CNXML</link>, an 
+<link document="m9002">XML</link>-based
+markup language that allows information to be exchanged, presented
+on different platforms, and output in different ways (such as
+online and in a PDF). There are several ways for you to produce a
+Connexions module:</para>
+<para id="id6250909">1) You can write your module using Microsoft
+Word, then 
+<link url="http://m13870/">import</link> it into Connexions. Some
+tweaking will be necessary, but this is probably the easiest method
+for novice writers.</para>
+<para id="id6187521">2) You can use Connexions’ 
+<link document="m10887" target-id="editinplacesec">
+edit-in-place</link> and 
+<link document="m10887" target-id="editfullsrcsec">
+ full-source</link> editors, which allow you to write your module
+online. (If you have an unstable Internet connection, this can be
+risky, but the edit-in-place feature is useful for making quick
+edits.)</para>
+<para id="id5604518">3) You can use an 
+<link document="m10887" target-id="exportsec">
+external XML editor</link> such as 
+<link document="m11160">XMLSpy</link> or 
+<link url="http://www.oxygenxml.com/">Oxygen</link>, then import
+the XML file into Connexions. This method will expose you to all of
+the XML tags that structure the document, but it also allows more
+control.</para>
+<para id="id5795200">If you want to create a TIMEA module but are
+confused by the technical details, please contact us at 
+<link url="mailto:timea@rice.edu">timea@rice.edu</link>. We’ll do
+our best to help.</para>
+<section id="idm556432">
+<title>Creating TIMEA Modules and Courses</title>
+<para id="id5806708">In order for your module or course to be
+considered a TIMEA resource, it should do the following:</para>
+<list list-type="enumerated" id="id6329733"><item>
+<term>Address topics that relate in some way to TIMEA</term>: For
+instance, your module could provide background to TIMEA materials
+on Egypt in the nineteenth century or examine how to conduct
+research in the humanities and social sciences. We hope that
+authors will use texts, images and maps from the TIMEA archive in
+their modules; see <link resource="m13903">“Bringing TIMEA Content into Connexions”</link> for
+instructions on how to do this.</item>
+<item>
+<term>Include TIMEA Metadata:</term> Include “TIMEA” and “Travelers
+in the Middle East Archive” as keywords in the 
+<link document="m10887" target-id="metadatafig">
+metadata section</link> of your module. You should also add keywords that describe
+the topics your module addresses, such as “Egyptian history” or
+“stereographs.” By providing metadata (or cataloging information),
+you make your module easier to discover and let readers quickly
+determine what the module addresses. You can use a controlled
+vocabulary such as 
+<link url="http://authorities.loc.gov/">Library of Congress
+authorities</link>or your own terminology; if you do the latter,
+try to be consistent so that there is a not of proliferation of
+closely related terms.</item>
+</list>
+<example id="idp1265424">
+<para id="id6171136">To add 
+<link document="m10887" target-id="metadatafig">
+metadata</link>,</para>
+<list list-type="bulleted" id="id2836906"><item>Create a new module in a 
+<link document="m10885">work
+area</link> or 
+<link document="m10887">edit an existing
+one</link> </item>
+<item>Click on the metadata tab in the edit module view</item>
+<item>Fill in the fields, including title, description, and
+keywords.</item>
+<item>Click “Save”</item>
+</list>
+<figure id="id6251856"><media id="idm1308816" alt=""><image src="../../media/Graphic1-56d2.jpg" mime-type="image/jpeg"/></media>
+
+<caption>
+Adding Metadata in Connexions</caption></figure>
+</example>
+<para id="element-617">3. <term> Have the module reviewed by the TIMEA project.</term>  So that we can ensure that everything in TIMEA meets standards for scholarship, we review modules that appear under the TIMEA logo.  However, you can contribute works to the general Connexions content commons without going through the review process.  Please contact timea@rice.edu if you are interested in authoring a module for TIMEA and having it reviewed.</para><para id="id6023799">4. <term>Provide Links to TIMEA:</term> So that readers can
+easily navigate from your module to TIMEA, please provide links to
+the main TIMEA site (<link url="http://timea.rice.edu/">http://timea.rice.edu</link>), 
+the TIMEA search page (<link url="http://timea.rice.edu/">http://timea.rice.edu/search</link>), and the
+specific TIMEA resource that you are referencing, whether it is a
+text, image, or map.</para>
+<para id="id6077762">To add a 
+<link document="m10887" target-id="editlinksfig">
+link</link> that will appear in the left sidebar of the
+module,</para>
+<example id="idm8895040">
+<list list-type="bulleted" id="id6200601"><item>Select the link tab from the module edit view.</item>
+<item>Enter the title of the link in the "Link Name" field. Make links to Travelers in the Middle East Archive (<link url="http://timea.rice.edu/">http://timea.rice.edu</link>),Search TIMEA (<link url="http://timea.rice.edu/search.html">http://timea.rice.edu/search.html</link>),  and any TIMEA resources that are referenced in the module.  You can also add links to other resources.</item>
+<item>Enter the URL for the link (or the module number, if you’re
+linking to another Connexions module) in the “Link URL”
+field.</item>
+<item>Use the pulldown menu to select the kind of link. All TIMEA links should be classified as  “supplemental,” which means that they will be grouped together.</item>
+<item>Use the pulldown menu to select the strength of the link,
+where 5 is the strongest. Travelers in the Middle East Archive
+should be given a strength of 5, while Search TIMEA should be given
+a strength of 4 and specific TIMEA resources should be given a
+strength of 3. This ensures that Travelers in the Middle East
+Archive will appear first.</item>
+</list>
+<figure id="id5642919"><media id="idm7367472" alt=""><image src="../../media/Graphic2-6605.jpg" mime-type="image/jpeg"/></media>
+
+<caption>Adding Links to the Sidebar</caption></figure>
+</example>
+<para id="id6213182">You can also add 
+<link url="http://cnx.org/technology/cnxml/0.5/spec/#inline_tags">
+inline links</link> within the text of your module. As you are
+editing your module, place the text or URL that you wish to turn
+into a link within the link element. For instance:</para>
+<example id="idp5567152">
+<para id="id5597095"><code>&lt;link
+src=”http://hdl.handle.net/1911/9166”&gt;</code></para>
+<para id="id6146573">Egypt through the stereoscope : a journey
+through the land of the Pharaohs</para>
+<para id="id6146579"><code>&lt;/link&gt;</code></para>
+</example>
+<para id="id6226928">Alternatively, if you are using the 
+<link url="http://cnx.org/help/UsingMSWord">Word Importer</link> to
+create your module within Microsoft Word, you can make a hyperlink
+by highlighting the text that will be displayed, going to the
+Insert menu in the top toolbar and selecting “Hyperlink”, and
+entering the web address in the box provided. The link should be
+preserved once the Word document is converted to a Connexions
+module.</para>
+
+<para id="id3054061">If you are linking to texts or images in
+TIMEA, use the URI (Uniform Resource Identifier) provided in the
+citation for the item. It will look something like this:
+<code>http://hdl.handle.net/1911/9184</code> This link uses the handle system to
+ensure that if the web site changes the web address will still work
+and is therefore intended to be more permanent than a basic
+URL.</para>
+</section>
+<section id="id5917627">
+<title>Creating Exercises</title>
+<para id="id6151288">You can include exercises within your module,
+posing questions and displaying the solution only when the reader
+clicks the “view solution” link. Such exercises can act as a check
+on understanding and make the module more interactive. For example,
+in Catherine Schmidt-Jones’ module on 
+<link document="m10856">Minor Keys and
+Scales</link>, she discusses how minor scales work, then invites
+readers to write out their own.</para>
+
+<figure id="id6216449"><media id="idm7842256" alt=""><image src="../../media/Graphic3-365c.jpg" mime-type="image/jpeg"/></media>
+
+<caption>Example of Connexions Exercise</caption></figure>
+
+<para id="id6140373">Creating an exercise requires using 
+<link document="m9007">CNXML</link> (the
+Connexions mark-up language). In the example below,
+&lt;exercise&gt; is the top-level element; within it are the
+&lt;problem&gt; and the &lt;solution&gt;. The text for the
+&lt;problem&gt; and &lt;solution&gt; occurs within a &lt;para&gt;,
+or paragraph. Every tag must be nested properly, like a Russian
+doll.</para>
+<example id="idm605040">
+<para id="id6127859"/>
+
+<para id="id5227228"><code>&lt;exercise id='stereo1'&gt;</code></para>
+<para id="id6161447"><code>&lt;problem&gt;</code></para>
+<para id="id6168517"><code>&lt;para id='stereoq1'&gt;</code></para>
+<para id="id5989771">What are some other names for
+stereographs?</para>
+<para id="id5481020"><code>&lt;/para&gt;</code></para>
+<para id="id3170074"><code>&lt;/problem&gt;</code></para>
+<para id="id5277223"><code>&lt;solution&gt;</code></para>
+<para id="id6330986"><code>&lt;para id='stereosol1'&gt;</code></para>
+<para id="id5990022">Other names for stereographs include
+“stereogram,” “stereoview,” and “stereo pairs.”</para>
+<para id="id6225349"><code>&lt;/para&gt;</code></para>
+<para id="id5964919"><code>&lt;/solution&gt;</code></para>
+<para id="id6244260"><code>&lt;/exercise&gt;</code></para>
+
+<para id="id6016967">CNXML includes structural tags (such as
+“example” and “section”), inline tags (such as “emphasis,” “link,”
+and “term”), and “special” tags (such as “definition” and “note”).
+You can also include figures and media (such as mp3 files) in your
+module. See the 
+<link url="http://cnx.org/technology/cnxml/0.5/spec/">CNXML 0.5
+Language Specification</link> and 
+<link document="m9000">The Basic
+CNXML</link>for more information.</para>
+</example>
+</section>
+<section id="id5646043">
+<title>Style Tips</title>
+<para id="id6095522">Here are some suggestions for creating Connexions modules:</para>
+<list list-type="bulleted" id="id6252394"><item>
+<term>Keep it concise.</term> We encourage authors to adopt the
+Connexions philosophy and break up content into “chunks” of
+knowledge that can be reused in different contexts.</item>
+<item>
+<term>Make modules stand alone.</term> Although you can organize
+modules into a course so that each one builds on what came before,
+keep in mind that readers will often access content at the
+module-level rather than the course level, so you can’t assume that
+they know what was discussed in previous modules. In addition,
+other Connexions users may wish to put your module into their own
+courses, so it should be able to stand alone.</item>
+<item>
+<term>Use concrete examples.</term> Abstract concepts make more
+sense when they are supported by specific examples. We encourage
+you to draw examples from the wealth of materials available through
+TIMEA. See “Bringing TIMEA Content into Connexions” for
+instructions.</item>
+<item>
+<term>Write clearly, even conversationally.</term> It should go
+without saying that writing should be clear, but keep in mind that
+Connexions attracts a diverse audience of students, scholars, and
+casual web surfers, many of whom adopt online reading practices
+(e.g. scanning the page). Some of the most effective Connexions
+modules are those that engage the reader in a sort of pedagogical
+dialogue, explaining points and raising questions. See, for
+example, the work of Connexions author extraordinaire Catherine
+Schmidt-Jones, such as “<link document="m10865">The Circle of
+Fifths</link>” (which is one of Connexions’ most popular
+modules).</item>
+<item>
+<term>Make your title clear and descriptive.</term> Since the title
+is the first thing that perspective readers see, it should give
+them a quick sense of what the module addresses. Don’t include
+numbers in titles (i.e. “Part III of My Great Module”), since
+others may reuse the module in their own courses, and since readers
+who aren’t aware of the other parts may be confused.</item>
+</list>
+</section>
+<section id="id6244276">
+<title>Intellectual Property</title>
+<para id="id5863971">If you do decide to produce a TIMEA module,
+you should be aware that you are deeding it to the Content Commons
+under the 
+<link url="http://creativecommons.org/">Creative Commons</link>
+<link url="http://creativecommons.org/licenses/by/2.0/">Attribution
+License</link>. This means that other people can put your module
+into their own courses, reuse it in other contexts, and even sell
+it, so long as they attribute you as the author. Through this open
+approach to intellectual property, Connexions hopes to encourage
+collaboration, foster education, and contribute to the growth of
+knowledge; we also hope that authors can build their reputations
+and enjoy the act of authorship. For more on the legal
+nitty-gritty, see 
+<link url="http://cnx.org/help/ipfaq">Connexions’ IP (Legal)
+FAQ</link>.</para>
+</section>
+</content>
+</document>
